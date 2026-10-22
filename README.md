@@ -1,4 +1,3 @@
-[profile_readme (2).md](https://github.com/user-attachments/files/33805917/profile_readme.2.md)
 <h1 align="center">Hi there, I'm <a href="https://github.com/satutitikkecil-moon">Wahyu Ilham Rahmanto</a> 👋</h1>
 
 <p align="center">
