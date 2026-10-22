@@ -82,8 +82,7 @@ Solusi otomasi *end-to-end* yang dibangun untuk memangkas waktu kerja manual dan
 - 💼 **Job Seeking**: Open to opportunities as a **Junior Web Developer / Frontend Developer / Python Developer / RPA Specialist**.
 - 🛠️ **Core Focus**: Bridging modern interactive web applications with resilient, real-world process automation (RPA & data scraping).
 - 💡 **Problem Solver**: Experienced in replacing repetitive manual business processes with reliable, low-latency, automated pipelines.
-- 📫 **Let's Connect**: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) • [Direct Email](mailto:your-email@example.com)
-
+- 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/wahyu-ilham-rahmanto-5b9487193/?isSelfProfile=true) • [Direct Email](https://mail.google.com/mail/?view=cm&fs=1&to=satutitikkecil@gmail.com)
 ---
 
 ### 💻 Tech Stack & Tools
