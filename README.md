@@ -148,7 +148,7 @@ Solusi otomasi *end-to-end* yang dibangun untuk memangkas waktu kerja manual dan
 | Project | Focus | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Chesstrix**](https://github.com/satutitikkecil-moon/Chesstrix) | Web Application | Modern web-based chess application for tactical drills, move calculation, and interactive gameplay visualization. | JavaScript, HTML5/CSS, Chess Logic Engine | [Repository](https://github.com/satutitikkecil-moon/Chesstrix) |
-| [**ATR/BPN Data Automation & RPA**](https://github.com/satutitikkecil-moon/otomasi-bpn) | Automation / RPA | Full-scale automated pipeline for Land Title (BT) & Measurement Letter (SU) registry, duplicate deduplication, Excel sync, and remote OCR bot. | Python, Selenium, Pandas, PySide6, Telegram Bot API | [Repository](https://github.com/satutitikkecil-moon/otomasi-bpn) |
+| [**ATR/BPN Data Automation & RPA**](https://github.com/satutitikkecil-moon/otomasi-bpn) | Automation / RPA | Full-scale automated pipeline for Land Title (BT) & Measurement Letter (SU) registry, duplicate deduplication, Excel sync, and remote OCR bot. | Python, Selenium, Pandas, PySide6, Telegram Bot API | [Repository](https://github.com/satutitikkecil-moon/Script-Entry-Dokumen-BT-SU-untuk-ATR-BPN) |
 
 ---
 
