@@ -36,7 +36,7 @@
 - 💼 **Mencari Peluang Kerja**: Terbuka untuk posisi **Junior Web Developer / Frontend Developer / Python Developer / RPA Specialist**.
 - 🛠️ **Fokus Keahlian**: Mengintegrasikan pengembangan aplikasi web interaktif modern dengan sistem otomatisasi alur kerja praktis (*Robotic Process Automation / RPA* & *web scraping*).
 - 💡 **Pemecahan Masalah**: Terbiasa mentransformasi pekerjaan administratif dan entri data manual yang repetitive menjadi alur kerja otomatis yang tangguh, cepat, dan minim kesalahan (*zero-error workflow*).
-- 📫 **Kontak & Jejaring**: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) • [Email Langsung](mailto:your-email@example.com)
+- 📫 **Kontak & Jejaring**: [LinkedIn](https://www.linkedin.com/in/wahyu-ilham-rahmanto-5b9487193/?isSelfProfile=true) • [Email Langsung](https://mail.google.com/mail/?view=cm&fs=1&to=satutitikkecil@gmail.com)
 
 ---
 
