@@ -133,14 +133,6 @@ An end-to-end automation engine built to eliminate repetitive manual entry and p
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satutitikkecil-moon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Satutitikkecil's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satutitikkecil-moon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
 <p align="center">
   <i>"Passionate about transforming tedious tasks into automated solutions."</i>
 </p>
