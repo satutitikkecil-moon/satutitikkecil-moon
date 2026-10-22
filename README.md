@@ -26,7 +26,6 @@
   - [Tech Stack & Tools](#-tech-stack--tools)
   - [Featured Projects](#-featured-projects)
   - [Technical Highlight: ATR/BPN Automation](#-technical-highlight-atrbpn-automation--rpa-engine)
-- [📊 GitHub Stats](#-github-activity--stats)
 
 ---
 
