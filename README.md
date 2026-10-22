@@ -61,7 +61,7 @@
 | Proyek | Fokus | Deskripsi Singkat | Tech Stack | Tautan |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Chesstrix**](https://github.com/satutitikkecil-moon/Chesstrix) | Aplikasi Web | Platform web interaktif untuk latihan taktik catur, simulasi permainan, evaluasi langkah, dan visualisasi papan. | JavaScript, HTML5/CSS, Web Engine Logic | [Lihat Kode](https://github.com/satutitikkecil-moon/Chesstrix) |
-| [**Otomasi Data ATR/BPN & RPA**](https://github.com/satutitikkecil-moon/otomasi-bpn) | Otomasi / RPA | Pipeline otomasi entri data Buku Tanah (BT) & Surat Ukur (SU), pembersihan duplikasi DI, integrasi dua arah dengan Excel, notifikasi real-time & OCR via Telegram Bot. | Python, Selenium, Pandas, PySide6, Telegram Bot API | [Lihat Kode](https://github.com/satutitikkecil-moon/otomasi-bpn) |
+| [**Otomasi Data ATR/BPN & RPA**](https://github.com/satutitikkecil-moon/Script-Entry-Dokumen-BT-SU-untuk-ATR-BPN) | Otomasi / RPA | Pipeline otomasi entri data Buku Tanah (BT) & Surat Ukur (SU), pembersihan duplikasi DI, integrasi dua arah dengan Excel, notifikasi real-time & OCR via Telegram Bot. | Python, Selenium, Pandas, PySide6, Telegram Bot API | [Lihat Kode](https://github.com/satutitikkecil-moon/Script-Entry-Dokumen-BT-SU-untuk-ATR-BPN) |
 
 ---
 
